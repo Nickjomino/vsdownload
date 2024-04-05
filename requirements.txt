@@ -5,5 +5,3 @@ tqdm
 rich
 selenium
 pycryptodome
-
-aa
